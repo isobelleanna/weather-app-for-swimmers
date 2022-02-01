@@ -12,7 +12,7 @@ export default function App() {
           This project was coded by Isobelle Joyce{" "}
           and is{" "}
           <a
-            href=""
+            href="https://github.com/isobelleanna/weather-app-for-swimmers"
             target="_blank"
             rel="noopener noreferrer"
           >
