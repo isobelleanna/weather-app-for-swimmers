@@ -1,4 +1,8 @@
 ul {
   list-style-type: none;
-  padding: 0px;
+  padding-left: 0px;
+  padding-top: 30px;
+}
+.CurrentCity {
+  padding-top: 20px;
 }
